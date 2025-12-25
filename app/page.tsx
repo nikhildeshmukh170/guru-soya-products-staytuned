@@ -196,7 +196,7 @@ export default function HomePage() {
                 <img
               src="/guru-logo-footer.png" // Replace with your logo path
               alt="Guru Soya Products"
-              className="h-34 w-auto"
+              className="h-24 w-auto"
             />
               <p className="text-gray-400 text-sm">Bringing premium soya products to your table with quality and care.</p>
             </div>
